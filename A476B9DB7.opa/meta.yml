@@ -1,0 +1,13 @@
+id: A476B9DB7
+title: 'RK: Bodhisatvapiṭaka, BMSC IV, Tibetan'
+type: translation
+pechas:
+- IBB96B32C
+source_metadata:
+  languages:
+  - bo
+  datatype: PlainText
+  created_at: 2023-02-08 14:59:06.258692
+  last_modified_at: 2023-02-08 14:59:06.258709
+alignment_to_base:
+  IBB96B32C/7229: 5DBB

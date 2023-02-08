@@ -1,0 +1,7 @@
+segment_sources:
+  IBB96B32C:
+    type: origin_type
+    relation: translation
+    lang: bo
+    base: '7229'
+segment_pairs: {}
